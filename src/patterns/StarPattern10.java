@@ -34,7 +34,7 @@ public class StarPattern10 {
 			System.out.print(" ");
 		}
 		for (int j=1;j<=star2;j++)
-		{ 
+	 { 
 			if(j<5||j>5)
 			{
 			System.out.print("*");
@@ -58,7 +58,7 @@ public class StarPattern10 {
 		
 	}
 		
-		System.out.println("pattern is print for git");
+		System.out.println("pattern is print foooor git");
 
 	}
 
