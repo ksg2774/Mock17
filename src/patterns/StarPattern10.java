@@ -58,7 +58,7 @@ public class StarPattern10 {
 		
 	}
 		
-		System.out.println("pattern is print foooor git");
+		System.out.println("pattern is print for git third change");
 
 	}
 
